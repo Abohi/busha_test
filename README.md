@@ -1,16 +1,8 @@
 # busha_mobile_test
 
-A new Flutter project.
 
-## Getting Started
+# Demo Video:
+https://github.com/Abohi/busha_test/assets/20222927/5171896e-8e52-4ec1-84f2-a5a71309830f
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo Apk:
+https://drive.google.com/file/d/1lRoftMjr_ianKkoKN1RhnCD2y3UQu-Vu/view?usp=sharing
